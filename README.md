@@ -1,7 +1,3 @@
-Cảm ơn bạn đã cung cấp liên kết tới **Kaggle Dataset**! Dưới đây là cách bạn có thể **cập nhật README** và hướng dẫn người dùng **cách tải dữ liệu từ Kaggle** sử dụng **Kaggle API**.
-
----
-
 # **Fake News Classification with Data Augmentation**
 
 ## **Project Overview**
