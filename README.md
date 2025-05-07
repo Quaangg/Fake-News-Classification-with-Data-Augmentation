@@ -106,7 +106,7 @@ pip install pandas numpy scikit-learn nltk transformers
 
 ### **GitHub Repository**
 
-* **Link to GitHub Repository**: [FakeNewsClassification](https://github.com/yourusername/FakeNewsClassification)
+* **Link to GitHub Repository**: [Fake News Classification with Data Augmentation](https://github.com/Quaangg/Fake-News-Classification-with-Data-Augmentation)
 
 ### **Project Duration**
 
